@@ -7,7 +7,7 @@ Currently graduated from the University of Michigan (Go Blue!) with a Master of 
 
 Skills
 -------
-### Techniacal
+### Technical
 - Strong: JavaScript/ES6+, Node.js, HTML5, CSS3, React.js, RESTful API, Python, Git, JSON, Semantic UI, Bootstrap
 - Experienced: PostgreSQL, JQuery, AngularJS, Django, UNITY
 
