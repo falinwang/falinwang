@@ -1,4 +1,4 @@
-### HI, MY NAME IS ROY WANG 👋🏻
+## HI, MY NAME IS ROY WANG 👋🏻
 ---
 I am a self-taught Full-Stack Developer with a sharp eye for innovative design and a keen understanding of techniques and a technical background in behavioral science, marketing, and user-centered agile development. 
 
