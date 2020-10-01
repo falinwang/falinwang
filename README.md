@@ -1,9 +1,12 @@
 ## HI, MY NAME IS ROY WANG 👋🏻
----
+
 I am a self-taught Full-Stack Developer with a sharp eye for innovative design and a keen understanding of techniques and a technical background in behavioral science, marketing, and user-centered agile development. 
 
 Currently graduated from the University of Michigan (Go Blue!) with a Master of Health Informatics, focusing on consumer health technologies and user-centered agile development. 
 
+Work, work, work...
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 Skills
 -------
