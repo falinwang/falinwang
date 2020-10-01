@@ -9,6 +9,10 @@ I am a self-taught Full-Stack Developer with a technical background in behaviora
 - ⚡ Fun fact: I am running a UX meme account [@ux_wtf](https://www.instagram.com/ux_wtf/)
 
 <strong>Work, work, work...</strong>
+
+  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
@@ -17,6 +21,7 @@ I am a self-taught Full-Stack Developer with a technical background in behaviora
   <br>
   <p><i>hey google, play lofi beats! 🎶</i><p>
  <p>Technical Skills</p>
+  
 
   - 💻 JavaScript/ES6+, Node.js, HTML5, CSS3, React.js, Python, Bootstrap
   - 🖥 PostgreSQL, RESTful API, JQuery, AngularJS, Django
