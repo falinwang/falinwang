@@ -8,9 +8,7 @@ Work, work, work...
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-Skills
--------
-### Technical
+### Technical Skills
 - Strong: JavaScript/ES6+, Node.js, HTML5, CSS3, React.js, RESTful API, Python, Git, JSON, Semantic UI, Bootstrap
 - Experienced: PostgreSQL, JQuery, AngularJS, Django, UNITY
 
@@ -26,3 +24,6 @@ Figma, Sketch, InVision, Adobe Creative Suite, UNITY, ASANA, JIRA, Final Cut Pro
 - Chinese (native)
 - Spanish (basic)
 - Korean (beginner)
+
+### Recent Activities
+[![Roy's github stats](https://github-readme-stats.vercel.app/api?username=falinwang)](https://github.com/falinwang/github-readme-stats)
