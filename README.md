@@ -1,11 +1,12 @@
 <h1 align="center"> Hi, I am Roy  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-I am a self-taught Full-Stack Developer with a technical background in behavioral science, marketing, and user-centered agile development. Currently graduated from the University of Michigan (Go Blue!) with a Master of Health Informatics, focusing on consumer health technologies and user-centered agile development. 
+I am a self-taught Full-Stack Developer with a technical background in behavioral science, and UX design. Currently graduated from the U of M (Go Blue!) with a Master of Health Informatics, focusing on consumer health technologies. 
 
-- 🔭 I’m currently working on UI of Guarankey and my [personal website](https://falinwang.github.io/portfolio/) 👩🏻‍💻
-- 🌱 I’m currently learning React, Redux, Korean and how to make a cool readme
-- 📫 How to reach me: twitter @roywannago
-- ⚡ Fun fact: I ❤️ bullet journal
+- 🔭 Working as a UX Engineer  👩🏻‍💻🎨  at a startup - [Guarankey](https://guarankey.com/) 
+- 🛠 Working on my [personal website](https://falinwang.github.io/portfolio/)
+- 🌱 Learning React, Redux, Korean and how to make a cool readme
+- 📫 How to reach me: twitter [@roywannago](https://twitter.com/roywannago)
+- ⚡ Fun fact: I am running a UX meme account [@ux_wtf](https://www.instagram.com/ux_wtf/)
 
 <strong>Work, work, work...</strong>
 <!--START_SECTION:activity-->
