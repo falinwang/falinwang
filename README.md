@@ -11,18 +11,19 @@ I am a self-taught Full-Stack Developer with a technical background in behaviora
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
-## more about me
-### Technical Skills
+<details>
+ <summary>👉🏻 more about me</summary>
+  <strong>skills</strong>
 - 💻 Strong: JavaScript/ES6+, Node.js, HTML5, CSS3, React.js, RESTful API, Python, Git, JSON, Semantic UI, Bootstrap
 - 🖥 Experienced: PostgreSQL, JQuery, AngularJS, Django, UNITY
 - 🎨 Design: User experience design, user journey map, interaction design, user flow, wireframing, design system
 - 💬 Research: Affinity diagram, comparative analysis, survey design, heuristic evaluation, usability testing, A/B testing
-
-### Languages
-- English (fluent)
+   <strong>Languages</strong>
+  - English (fluent)
 - Chinese (native)
 - Spanish (basic)
 - Korean (beginner)
+</details>
 
 ### Recent Activities
 [![Roy's github stats](https://github-readme-stats.vercel.app/api?username=falinwang)](https://github.com/falinwang/github-readme-stats)
