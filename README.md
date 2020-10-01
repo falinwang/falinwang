@@ -2,7 +2,7 @@
 
 I am a self-taught Full-Stack Developer with a technical background in behavioral science, marketing, and user-centered agile development. Currently graduated from the University of Michigan (Go Blue!) with a Master of Health Informatics, focusing on consumer health technologies and user-centered agile development. 
 
-- 🔭 I’m currently working on UI of Guarankey and my [personal website] (https://falinwang.github.io/portfolio/)👩🏻‍💻
+- 🔭 I’m currently working on UI of Guarankey and my [personal website](https://falinwang.github.io/portfolio/) 👩🏻‍💻
 - 🌱 I’m currently learning React, Redux, Korean and how to make a cool readme
 - 📫 How to reach me: twitter @roywannago
 - ⚡ Fun fact: I ❤️ bullet journal
