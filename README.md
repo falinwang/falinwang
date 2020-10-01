@@ -1,4 +1,4 @@
-## HI, MY NAME IS ROY WANG 👋🏻
+<h1 align="center"> Hi, I am Roy  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
 I am a self-taught Full-Stack Developer with a sharp eye for innovative design and a keen understanding of techniques and a technical background in behavioral science, marketing, and user-centered agile development. 
 
