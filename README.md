@@ -17,9 +17,9 @@ I am a self-taught Full-Stack Developer with a technical background in behaviora
 <!--END_SECTION:activity-->
 
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=falinwang&show_icons=true&count_private=true&hide=stars&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)
+![My github stats](https://github-readme-stats.vercel.app/api?username=falinwang&show_icons=true&count_private=true&hide=stars&bg_color=15,4249a6,b3bce6&title_color=fff&text_color=fff&icon_color=fff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falinwang&hide=java&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/falinwang/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falinwang&hide=java&layout=compact&bg_color=15,4249a6,b3bce6&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/falinwang/github-readme-stats)
 
 <details>
   <summary>👉🏻 More about me...</summary>
