@@ -2,7 +2,7 @@
 
 I am a self-taught Full-Stack Developer with a technical background in behavioral science, and UX design. Currently graduated from the U of M (Go Blue!) with a Master of Health Informatics, focusing on consumer health technologies. 
 
-- 🔭 Working as a UX Engineer  👩🏻‍💻🎨  at a startup - [Guarankey](https://guarankey.com/) 
+- 🔭 Working as a UX Engineer  👩🏻‍💻🎨   at a startup - [Guarankey](https://guarankey.com/) 
 - 🛠 Working on my [personal website](https://falinwang.github.io/portfolio/)
 - 🌱 Learning React, Redux, Korean and how to make a cool readme
 - 📫 How to reach me: twitter [@roywannago](https://twitter.com/roywannago)
@@ -28,8 +28,8 @@ I am a self-taught Full-Stack Developer with a technical background in behaviora
  <p>Technical Skills</p>
   
 
-  - 💻 JavaScript/ES6+, Node.js, HTML5, CSS3, React.js, Python, Bootstrap
-  - 🖥 PostgreSQL, RESTful API, JQuery, AngularJS, Django
+  - 💻 Preferred: JavaScript/ES6+, Node.js, HTML5, CSS3, React.js, Python, Bootstrap
+  - 🖥 Experienced: PostgreSQL, RESTful API, JQuery, AngularJS, Django
   - 🎨 UX Design: User experience design, user journey map, interaction design, user flow, wireframing, design system
   - 💬 UX Research: Affinity diagram, comparative analysis, survey design, heuristic evaluation, usability testing, A/B testing
   
