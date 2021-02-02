@@ -1,6 +1,6 @@
 <h1 align="center"> Hi, I am Roy  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-I am a self-taught Full-Stack Developer with a technical background in behavioral science, and UX design. Currently graduated from the U of M (Go Blue!) with a Master of Health Informatics, focusing on consumer health technologies. Passionate about bridging the gap between development and design with a focus on front-end and user experience.
+I am a self-taught Full-Stack Designer with a technical background in behavioral science, and UX design. Currently graduated from the U of M (Go Blue!) with a Master of Health Informatics, focusing on consumer health technologies. Passionate about bridging the gap between development and design with a focus on front-end and user experience.
 
 - 🔭 Working as a UX Engineer  👩🏻‍💻🎨   at a startup - [Guarankey](https://guarankey.com/) 
 - 🛠 Working on my [personal website](https://falinwang.github.io/portfolio/)
