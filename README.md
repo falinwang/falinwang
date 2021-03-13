@@ -2,11 +2,10 @@
 
 I am a self-taught Full-Stack Designer with a technical background in behavioral science, and UX design. Currently graduated from the U of M (Go Blue!) with a Master of Health Informatics, focusing on consumer health technologies. Passionate about bridging the gap between development and design with a focus on front-end and user experience.
 
-- 🔭 Working as a UX Engineer  👩🏻‍💻🎨   at a startup - [Guarankey](https://guarankey.com/) 
-- 🛠 Working on my [personal website](https://falinwang.github.io/portfolio/)
-- 🌱 Learning React, Redux, Korean and how to make a cool readme
+- 🔭 Working as a UX Engineer  👩🏻‍💻🎨   at a startup
+- 🛠 Working on my [portfolio](https://falinwang.github.io/portfolio/)
+- 🌱 Learning Redux, Korean and how to make a cool readme
 - 📫 How to reach me: twitter [@roywannago](https://twitter.com/roywannago)
-- ⚡ Fun fact: I am running a UX meme account [@ux_wtf](https://www.instagram.com/ux_wtf/)
 
 <strong>Work, work, work...</strong>
 
