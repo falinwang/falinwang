@@ -1,8 +1,8 @@
 <h1 align="center"> Hi, I am Roy  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
 
-I am a self-taught Full-Stack Designer with a technical background in behavioral science, and UX design. Currently graduated from the U of M (Go Blue!) with a Master of Health Informatics, focusing on consumer health technologies. Passionate about bridging the gap between development and design with a focus on front-end and user experience.
+I am a Full-Stack Designer with a technical background in behavioral science, marketing and UX design. Graduated from the UMich with a Master of Health Informatics, focusing on consumer health technologies. Passionate about bridging the gap between development and design with a focus on front-end and user experience. 
 
-- 🔭 Working as a UX Engineer  👩🏻‍💻🎨   at a startup
+- 🔭 Working as a Interaction Designer based in LA.
 - 🛠 Working on my [portfolio](https://falinwang.github.io/portfolio/)
 - 🌱 Learning Redux, Korean and how to make a cool readme
 - 📫 How to reach me: twitter [@roywannago](https://twitter.com/roywannago)
@@ -37,7 +37,6 @@ I am a self-taught Full-Stack Designer with a technical background in behavioral
   - English (fluent)
   - Chinese (native)
   - Spanish (basic)
-  - Korean (beginner)
 
   <br><br>
 </details>
