@@ -5,7 +5,6 @@ I am a Full-Stack Designer with a technical background in behavioral science, ma
 - 🔭 Working as a Interaction Designer based in LA.
 - 🛠 Working on my [portfolio](https://falinwang.github.io/portfolio/)
 - 🌱 Learning Redux, Korean and how to make a cool readme
-- 📫 How to reach me: twitter [@roywannago](https://twitter.com/roywannago)
 
 <strong>Work, work, work...</strong>
 
@@ -27,15 +26,15 @@ I am a Full-Stack Designer with a technical background in behavioral science, ma
  <p>Technical Skills</p>
   
 
-  - 💻 Preferred: JavaScript/ES6+, Node.js, HTML5, CSS3, React.js, Python, Bootstrap
-  - 🖥 Experienced: PostgreSQL, RESTful API, JQuery, AngularJS, Django
+  - 💻 Development: JavaScript/ES6+, Node.js, HTML5, CSS3, React.js, Python, Bootstrap
   - 🎨 UX Design: User experience design, user journey map, interaction design, user flow, wireframing, design system
-  - 💬 UX Research: Affinity diagram, comparative analysis, survey design, heuristic evaluation, usability testing, A/B testing
+  - 💬 UX Research: Affinity diagram, comparative analysis, survey design, heuristic evaluation, usability testing
   
   <p>Languages</p>
   
   - English (fluent)
   - Chinese (native)
+  - Korean (basic)
   - Spanish (basic)
 
   <br><br>
