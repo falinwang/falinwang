@@ -11,14 +11,6 @@ I am a Full-Stack Designer with a technical background in behavioral science, ma
   <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-
-![My github stats](https://github-readme-stats.vercel.app/api?username=falinwang&show_icons=true&count_private=true&hide=stars&bg_color=15,4249a6,b3bce6&title_color=fff&text_color=fff&icon_color=fff)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falinwang&hide=java&layout=compact&bg_color=15,4249a6,b3bce6&title_color=fff&text_color=fff&icon_color=fff)](https://github.com/falinwang/github-readme-stats)
-
 <details>
   <summary>👉🏻 More about me...</summary>
   <br>
